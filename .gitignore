@@ -162,3 +162,6 @@ cython_debug/
 
 host_3-22.csv
 spat_3-22.csv
+host_jan-22.csv
+host_3-22.csv
+.DS_Store
